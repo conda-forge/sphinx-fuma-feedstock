@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.2"
+  version: "0.1.3"
 
 package:
   name: sphinx-fuma
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sphinx-fuma/sphinx_fuma-${{ version }}.tar.gz
-  sha256: d0691d021dc3da7e87ded6f10f98c16ce13cbaee98c7b05800f5b1557accf6bc
+  sha256: ea3ef40e2848caf11117caee985510242f2a0bfb94c2507a0b74d2437d5e350f
 
 build:
   number: 0
